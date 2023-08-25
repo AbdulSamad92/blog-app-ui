@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+}
+
+.navbar {
+    background-color: blueviolet;
+}
+
+.formDiv {
+    margin: auto;
+    margin-top: 100px;
+    min-width: 50px;
+    max-width: 100%;
+    width: 300px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.profile-form-div {
+    width: 60vw;
+}
+
+.profile-form-div input {
+    width: 300px;
+}
